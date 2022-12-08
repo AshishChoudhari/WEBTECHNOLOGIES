@@ -1,0 +1,88 @@
+body{
+    background-color: rgba(255, 255, 255, 0.97);
+}
+div{
+    color: rgb(11, 11, 11);
+    background-color: rgb(5, 129, 253);
+    width: fit-content;
+    height: fit-content;
+}
+h1{
+    color: rgb(27, 27, 26);
+    font-size: xx-large;
+    background-color: crimson;
+    width: fit-content;
+    height: fit-content;
+    border-style: solid;
+}
+h2{
+    color: rgb(10, 10, 10);
+    font-size: xx-large;
+    background-color: crimson;
+    width: fit-content;
+    height: fit-content;
+    border-style: solid;
+
+}
+p{
+    text-shadow:4px 4px 8px blue;
+    word-spacing:1.5px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+
+}
+h3{
+    color: rgb(15, 15, 15);
+    font-size: xx-large;
+    background-color: crimson;
+    width: fit-content;
+    height: fit-content;
+    border-style: solid;
+
+}
+h4{
+    color: rgb(5, 5, 5);
+    font-size: xx-large;
+    background-color: crimson;
+    width: fit-content;
+    height: fit-content;
+    border-style: solid;
+
+}
+h5{
+    color: rgb(7, 7, 7);
+    font-size: xx-large;
+    background-color: crimson;
+    width: fit-content;
+    height: fit-content;
+    border-style: solid;
+}
+ol{
+    list-style-type: lower-roman;
+    color: rgb(252, 5, 5);
+    background-color: black;
+    width: fit-content;
+    height: fit-content;
+    border-style: solid;
+    border-width: 10px;
+    
+}
+table{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blue;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td{
+    padding: 5px;
+}
+footer{
+    background-color: black;
+    width: fit-content;
+    height: fit-content;
+    color: crimson;
+    border-style: solid;
+
+}
